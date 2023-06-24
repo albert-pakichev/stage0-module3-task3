@@ -5,6 +5,6 @@ public class DeclaringVars {
         int a = 10;
         int b = 10;
         int c = 10;
-        System.out.printf("%d ", c);
+        System.out.printf("%d", c);
     }
 }
