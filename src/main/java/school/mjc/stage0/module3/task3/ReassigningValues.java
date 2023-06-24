@@ -11,6 +11,6 @@ public class ReassigningValues {
         linkToFirst = 15;
         linkToSecond = 6;
         linkToThird = 4;
-        System.out.printf("%d \n%d \n%d \n%d \n%d \n%d \n", first,second,third,linkToFirst,linkToSecond,linkToThird);
+        System.out.printf("%d %n%d %n%d %n%d %n%d %n%d %n", first,second,third,linkToFirst,linkToSecond,linkToThird);
     }
 }
